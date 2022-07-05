@@ -1,4 +1,4 @@
-##  LABORATORIO DE ELECTRÓNICA DIGITAL 1 2022-1 UNIVERSIDAD NACIONAL DE COLOMBIA 
+##  LABORATORIO 01: Sumador de 1 bit 
 
 ### Profesor:
 	Ferney Alberto Beltrán Molina, Ing, MSc, PhD(c)
